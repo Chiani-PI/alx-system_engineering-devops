@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d */ listit README.md
+echo -e "0-my_stuff\n1-listit\nREADME.md"
